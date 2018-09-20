@@ -1,0 +1,39 @@
+_repo: Simplicianische-Schriften-Erster-Theil-von-2_53054
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grimmelshausen, Hans Jacob Christoph von
+    aliases:
+    - Grimmelshausen, Johann Jakob Christoffel von
+    - Hirschfeld, Samuel Greiffenson von
+    - Sulsfort, German Schleifheim, von
+    - Von Grimmelshausen, Hans Jakob Christoph
+    - Sehmsdorff, Michael Rechulin von
+    - Trommenheim, Philarchus Grossus von
+    - Grimmelshausen, Hans Jacob Christoffel von
+    birthdate: 1621
+    deathdate: 1676
+    gutenberg_agent_id: '36737'
+    url: http://www.gutenberg.org/2009/agents/36737
+    wikipedia: http://en.wikipedia.org/wiki/Hans_Jakob_Christoffel_von_Grimmelshausen
+  editor:
+    agent_name: Tittmann, Julius
+    birthdate: 1814
+    deathdate: 1883
+    gutenberg_agent_id: '47199'
+    url: http://www.gutenberg.org/2009/agents/47199
+description: ''
+gutenberg_issued: '2016-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53054'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Thirty Years'' War, 1618-1648 -- Fiction'
+- GITenberg
+title: Simplicianische Schriften, Erster Theil (von 2)
+url: http://www.gutenberg.org/ebooks/53054
